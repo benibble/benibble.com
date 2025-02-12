@@ -2964,7 +2964,7 @@ html.cl-loaded .home-content__main {
     color: #4f4f4f !important;
 }
 .contact-primary, .contact-secondary {
-    float: left;
+    float: right;
     padding: 0 5rem;
 }
 
